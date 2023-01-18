@@ -1,3 +1,4 @@
+
 create table user_tb(
     id int auto_increment primary key,
     username varchar not null unique,

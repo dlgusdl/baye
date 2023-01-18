@@ -1,4 +1,4 @@
-package shop.mtcoding.model;
+package shop.mtcoding.baye.model;
 
 import java.sql.Timestamp;
 
