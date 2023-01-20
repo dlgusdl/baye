@@ -17,4 +17,5 @@ public interface ProductRepository {
             @Param("qty") int qty);
 
     public int deleteById(int id);
+
 }
